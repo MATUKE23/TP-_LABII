@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1623535792 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteFile.h"
+
+1623535726 c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\include\clientefile.h
+
+1623535713 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+
+1623536617 c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\include\clientenegocio.h
+
+1623536216 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+
+1623536696 c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\include\clientevista.h
+
+1623533334 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteVista.h"
+
+1623540864 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+
+1623540625 c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\include\clientenegocio.h
+
+1623535726 c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\include\clientefile.h
+
+1623541012 c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\include\clientevista.h
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+
+1623535792 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteFile.h"
+
+1623540520 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1623540906 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
